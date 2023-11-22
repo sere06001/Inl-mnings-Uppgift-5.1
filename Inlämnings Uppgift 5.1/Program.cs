@@ -11,6 +11,7 @@ namespace uupgift5_1
             {
                 Console.WriteLine(namn[i]); 
             }
+            Console.ReadKey():
         }
     }
 }
